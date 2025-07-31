@@ -6,7 +6,7 @@ from src.game.game_engine import GameEngine
 
 if __name__ == "__main__":
     # Crea alcune carte di esempio
-    pikachu = PokemonCard("Pikachu", 60, "electric", [
+    pikachu = PokemonCard("Pikachu", 70, "electric", [
         {"name": "Thunder Shock", "damage": 20, "cost": ["electric"]}
     ])
     
